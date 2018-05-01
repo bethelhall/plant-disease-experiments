@@ -1,5 +1,10 @@
 #!/usr/bin/env python
 
+'''
+Implementation of Info-WGAN-GP from Sergey Rodionov (sergey@singularitynet.io),
+this code was partly based on original WGAN-GP implementation (https://github.com/igul222/improved_wgan_training)
+'''
+
 
 import argparse
 from PIL import Image
