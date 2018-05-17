@@ -15,15 +15,13 @@ Approches for Solving the papers realtime Detection Problem
 		  using the data train the model again
 				
 
-### Installing
+### Results From the Training
 
-
-```
-Tensorflow 1.5
-```
-```
-Keras 2.0
-```
-```
-
-```
+    Without Augmentation using color data
+	    AlexNet - Fine tuning  - 
+	    		- from Scratch - 98%
+	    InceptionV3 - fine tuning  - 71%
+	    			- from scratch - 94%
+	    Resnet 	- 97%
+	    VGG 	- fine tuning  - 80%
+	    		- from scratch - 94%
