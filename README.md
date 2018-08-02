@@ -39,5 +39,7 @@ phase 3 : [experement and if possible generate Apprprate data
 
 - experiment with different generative networks to see their generative capability and if the output can be used to train more robust models
 
+**leaf-image-segmentation-segnet**
 
+- segmentation pipline using VGGSegNet Architecture
 
