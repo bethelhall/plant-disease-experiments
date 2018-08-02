@@ -9,7 +9,7 @@
 
 
 
-***Objective***
+**Objective**
 
 - Train and Evaluate different DNN Models for plant deasise detection Problem
 
@@ -19,7 +19,7 @@
 
 
 
-**Approches for Solving the papers realtime Detection Problem **
+**Approches for Solving the papers realtime Detection Problem**
 
 phase 1 : [implement the paper](https://github.com/IsraelAbebe/plant_disease_experements/tree/master/Plant_Disease_Detection_Benchmark_models) 
 
