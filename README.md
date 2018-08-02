@@ -21,12 +21,12 @@
 
 **Approches for Solving the papers realtime Detection Problem**
 
-phase 1 : [implement the paper](https://github.com/IsraelAbebe/plant_disease_experements/tree/master/Plant_Disease_Detection_Benchmark_models) 
+phase 1 : [implement the paper](https://github.com/singnet/plant-disease-experiments/tree/master/Plant_Disease_Detection_Benchmark_models) 
 
 phase 2 : do analysis on the paper and identify the type of data problem 
 
 phase 3 : [experement and if possible generate Apprprate data
-		  using the data train the model again](https://github.com/IsraelAbebe/plant_disease_experements/tree/master/Plant_Disease_Detection_gan_experimants)
+		  using the data train the model again](https://github.com/singnet/plant_disease_experements/tree/master/Plant_Disease_Detection_gan_experimants)
 
 
 # Project Structure
@@ -39,5 +39,7 @@ phase 3 : [experement and if possible generate Apprprate data
 
 - experiment with different generative networks to see their generative capability and if the output can be used to train more robust models
 
+**leaf-image-segmentation-segnet**
 
+- segmentation pipline using VGGSegNet Architecture
 
