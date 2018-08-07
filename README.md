@@ -43,3 +43,7 @@ phase 3 : [experement and if possible generate Apprprate data
 
 - segmentation pipline using VGGSegNet Architecture
 
+**leaf-image-segmentation**
+
+- segmentation pipline based on vegetation color index
+
