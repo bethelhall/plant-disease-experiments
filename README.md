@@ -46,4 +46,7 @@ phase 3 : [experement and if possible generate Apprprate data
 **leaf-image-segmentation**
 
 - histogram based segmentation Pipline 
+<<<<<<< HEAD
 
+=======
+>>>>>>> c4886c9e1dcda74a89394c627e4c104c28d6b355
