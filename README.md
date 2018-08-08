@@ -45,5 +45,4 @@ phase 3 : [experement and if possible generate Apprprate data
 
 **leaf-image-segmentation**
 
-- segmentation pipline based on vegetation color index
-
+- histogram based segmentation Pipline 
