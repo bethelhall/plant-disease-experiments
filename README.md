@@ -47,3 +47,11 @@ phase 3 : [experement and if possible generate Apprprate data
 
 - histogram based segmentation Pipline 
 
+
+
+
+
+# Usage
+
+	Python main.py --image "abc.jpg"
+
