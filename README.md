@@ -55,3 +55,6 @@ phase 3 : [experement and if possible generate Apprprate data
 
 	Python main.py --image "abc.jpg"
 
+- This will segment the image and predict the output class based on that . segmented image will be saved as the file name with "_masked" prefix.
+
+-  You can cheack the segmentation accuracy from saved image
