@@ -53,8 +53,14 @@ phase 3 : [experement and if possible generate Apprprate data
 
 # Usage
 
-	Python main.py --image "abc.jpg"
+	Python main.py [--image  IMAGE FILE] [--segment BOOLIAN PARAMETER]
 
+	arguments
+
+		- --image        a path of image 
+		-  --segment     True to  Segment before prediction , False not to 
+
+		
 - This will segment the image and predict the output class based on that . segmented image will be saved as the file name with "_masked" prefix.
 
 -  You can cheack the segmentation accuracy from saved image
